@@ -1,0 +1,5 @@
+Better(A,B)
+3
+Better(A,x)&Better(x,B)=>Better(A,B)
+Better(A,C)
+Better(C,B)
